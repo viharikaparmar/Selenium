@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="33" started-at="2021-05-02T11:51:05Z" finished-at="2021-05-02T11:51:05Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="33" started-at="2021-05-02T11:51:05Z" finished-at="2021-05-02T11:51:05Z">
+      <class name="SeleniumTests.Test1">
+        <test-method status="PASS" signature="add()[pri:0, instance:SeleniumTests.Test1@3cbbc1e0]" name="add" duration-ms="1" started-at="2021-05-02T11:51:05Z" finished-at="2021-05-02T11:51:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+      </class> <!-- SeleniumTests.Test1 -->
+      <class name="tests.RadioButtons">
+        <test-method status="PASS" signature="radiotest()[pri:0, instance:tests.RadioButtons@6df97b55]" name="radiotest" duration-ms="8" started-at="2021-05-02T11:51:05Z" finished-at="2021-05-02T11:51:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- radiotest -->
+        <test-method status="PASS" signature="vtest()[pri:0, instance:tests.RadioButtons@6df97b55]" name="vtest" duration-ms="0" started-at="2021-05-02T11:51:05Z" finished-at="2021-05-02T11:51:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vtest -->
+      </class> <!-- tests.RadioButtons -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
